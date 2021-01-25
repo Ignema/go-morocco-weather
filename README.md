@@ -20,3 +20,5 @@ You can run the program by typing this command:
   ```
   go run main.go
   ```
+
+I also wrote an article explaining the program. You can find it here: https://medium.com/ensias-it/tracking-the-weather-in-major-moroccan-cities-with-go-4907ffdc9c34
